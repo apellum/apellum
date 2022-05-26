@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
-<h3 align="center">A passionate full-stack developer from New Mexico</h3>
+<h3 align="center">A passionate full-stack developer from Denver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apellum&label=Profile%20views&color=0e75b6&style=flat" alt="apellum" /> </p>
 
-- 🔭 I’m currently working on [Resort Booker](https://github.com/apellum/ski-resort-seller)
+- 🔭 I’m currently working on Enlifted App
 
-- 🌱 I’m currently learning **Redux, Typescript, Jest, Material UI**
+- 🌱 I’m currently learning **MobX State Tree and Typescript**
 
-- 👯 I’m looking to collaborate on [ToDo App](https://github.com/apellum/ToDo-Client)
-
-- 📝 I regularly write articles on [React](React)
-
-- 💬 Ask me about **React, Ruby on Rails**
+- 💬 Ask me about **React or React-Native**
 
 - 📫 How to reach me **apellum19@gmail.com**
 
